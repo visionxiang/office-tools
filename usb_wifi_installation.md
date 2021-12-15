@@ -7,8 +7,6 @@ Requirements:
 - Ubuntu 18.04/20.04
 
 
-#### Download the driver installation package
-
 Download the driver package [here](https://github.com/fastoe/RTL8812BU), unzip and name the folder as RTL8812BU.
 ```
 cd RTL8812BU
